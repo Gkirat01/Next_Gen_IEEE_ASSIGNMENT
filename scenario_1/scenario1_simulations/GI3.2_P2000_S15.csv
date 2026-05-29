@@ -1,0 +1,4 @@
+Realization_#,NumSuccessfulPackets24,NumSuccessfulPackets5,NumSuccessfulPackets6,TotSuccessfullChanAttempts,TotCollisions,TotChanAccessAttempts,MACDly
+1,2584,0,0,2584,2147,4731,0.003838192
+2,2598,0,0,2598,2197,4795,0.003888644
+3,2302,0,0,2302,1916,4218,0.004622571
